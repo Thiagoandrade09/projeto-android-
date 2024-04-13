@@ -141,3 +141,12 @@ div iframe {
     height: 90%;
     
 }
+
+footer p {
+    text-align: center;
+    width: auto;
+    font-weight: 700;
+    padding: 10px;
+    background-color: rgba(53, 52, 52, 0.966);
+    color: white;
+}
